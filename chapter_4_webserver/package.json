@@ -1,0 +1,19 @@
+{
+  "name": "chapter_4_webserver",
+  "version": "1.0.0",
+  "description": "webserver",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Darkhan Zhursin",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
