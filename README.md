@@ -1,4 +1,4 @@
 # node-dave
-Node.js Full Course
+Node.js 
 
 to run: npm run dev
